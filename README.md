@@ -1,7 +1,7 @@
 # Hi, I'm ALI! 💫<br>
 
 👩🏻‍🎓 Final Year IT & Network Engineering Student | Moroccan School of Engineering Sciences (EMSI), Marrakech<br>
-👩🏻‍💻 Software Engineer | Sharing my journey and learnings in [LinkedIn](https://www.linkedin.com/in/ali-el-jouali-5b4793277/)<br>
+👩🏻‍💻 Software Engineer | Sharing my journey and learnings in [LinkedIn](https://www.linkedin.com/in/alieljouali/)<br>
 🌱 Currently Learning: AI and consulting<br>
 🔭 Current Project: Toolwise archives management app development<br>
 ⚡ Fun Fact:  I’m a problem-solver at heart—tech puzzles and real-life challenges alike! 🤖<br>
